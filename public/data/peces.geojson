@@ -1,1 +1,27 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "especie": "Austrolebias sp.",
+        "lugar": "Charca cercana a Rocha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.333, -34.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "especie": "Megalebias sp.",
+        "lugar": "Zona Valizas (ejemplo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.774, -34.4]
+      }
+    }
+  ]
+}
