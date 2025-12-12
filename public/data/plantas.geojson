@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "especie": "Aponogeton crispus",
+        "lugar": "Acuario experimental (Montevideo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.2, -34.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "especie": "Micranthemum humbrosum",
+        "lugar": "Acuario doméstico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.15, -34.85]
+      }
+    }
+  ]
+}
